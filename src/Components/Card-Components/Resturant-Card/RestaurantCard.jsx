@@ -3,19 +3,19 @@ import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 import { FaRegHeart } from "react-icons/fa";
 import { Link } from 'react-router-dom';
-const RestaurantCard = () => {
+const RestaurantCard = ({data}) => {
     return (
-        <div className="w-full max-w-xs bg-white border border-gray-200 rounded-lg shadow ">
+        <div className="w-full  bg-white border border-gray-200 rounded-lg shadow ">
             <Link to="">
                 <Carousel infiniteLoop showArrows={false} autoPlay={true} interval={3000} showThumbs={false}>
                     <div>
-                        <img src="https://i.ibb.co/qg2qdKZ/pansi.jpg" alt="product" />
+                        <img className=' rounded-t-lg' src="https://i.ibb.co/qg2qdKZ/pansi.jpg" alt="product" />
                     </div>
                     <div>
-                        <img src="https://i.ibb.co/TgxpZQX/pansi2.jpg" alt="product" />
+                        <img className=' rounded-t-lg' src="https://i.ibb.co/TgxpZQX/pansi2.jpg" alt="product" />
                     </div>
                     <div>
-                        <img src="https://i.ibb.co/YdJbskR/pansi3.jpg" alt="product" />
+                        <img className=' rounded-t-lg' src="https://i.ibb.co/YdJbskR/pansi3.jpg" alt="product" />
                     </div>
 
                 </Carousel>
@@ -23,7 +23,7 @@ const RestaurantCard = () => {
             <div className="px-5 pb-5">
                 <div className="flex items-center justify-between mt-5">
                     <span className="text-3xl font-bold text-gray-900 dark:text-white">
-                        Pansi
+                      {data.name}
                     </span>
 
                 </div>
@@ -32,9 +32,9 @@ const RestaurantCard = () => {
                     <div
                         className="flex items-center  w-4 h-4 text-yellow-300 mr-1">
                         <i class="fa-solid fa-star"></i>
-                        <p className="text-black">Rating</p>
+                        <p className="text-black">rating</p>
                         <span className="bg-teal-100 text-blue-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3">
-                            5.5
+                        {data.rating}
                         </span>
                     </div>
                     {/* Menu buttond */}

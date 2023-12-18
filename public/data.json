@@ -1,0 +1,284 @@
+[
+      {
+        "name": "The Savory Spoon",
+        "image": "https://i.ibb.co/xq99kv7/pachvai1.jpg",
+        "phone": "+1 (555) 123-4567",
+        "location": "123 Main Street, Cityville",
+        "description": "A cozy spot for comfort food lovers. Indulge in our delicious home-style dishes.",
+        "rating": 4.5,
+        "menu": [
+          {
+            "name": "Spaghetti Bolognese",
+            "price": "$12.99",
+            "image": "[Link to Image]",
+            "description": "Classic Italian pasta dish with savory Bolognese sauce."
+          },
+          {
+            "name": "Grilled Chicken Caesar Salad",
+            "price": "$8.99",
+            "image": "[Link to Image]",
+            "description": "Fresh romaine lettuce, grilled chicken, croutons, and Caesar dressing."
+          },
+          {
+            "name": "Classic Apple Pie",
+            "price": "$5.99",
+            "image": "[Link to Image]",
+            "description": "Homemade apple pie with a flaky crust and cinnamon-infused apples."
+          }
+        ]
+      },
+      {
+        "name": "Fusion Flavors",
+        "image": "https://i.ibb.co/0KD33hv/seasons1.jpg",
+        "phone": "+1 (555) 987-6543",
+        "location": "456 Oak Avenue, Metropolis",
+        "description": "Experience a fusion of global flavors in every bite. Culinary delights from around the world.",
+        "rating": 4.2,
+        "menu": [
+          {
+            "name": "Sushi Platter",
+            "price": "$18.99",
+            "image": "[Link to Image]",
+            "description": "Assorted sushi rolls with fresh fish, rice, and seaweed."
+          },
+          {
+            "name": "Chicken Tikka Masala",
+            "price": "$15.99",
+            "image": "[Link to Image]",
+            "description": "Tender chicken pieces in a creamy and flavorful tomato-based curry."
+          },
+          {
+            "name": "Tiramisu",
+            "price": "$6.99",
+            "image": "[Link to Image]",
+            "description": "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cream."
+          }
+        ]
+      },
+      {
+        "name": "Cheesy Delights",
+        "image": "https://i.ibb.co/VpVZ7ps/seasons2.jpg",
+        "phone": "+1 (555) 876-5432",
+        "location": "789 Cheese Lane, Dairyville",
+        "description": "A haven for cheese enthusiasts. Explore a variety of cheesy dishes crafted with love.",
+        "rating": 4.8,
+        "menu": [
+          {
+            "name": "Four Cheese Pizza",
+            "price": "$14.99",
+            "image": "[Link to Image]",
+            "description": "Pizza with a delightful blend of mozzarella, cheddar, parmesan, and blue cheese."
+          },
+          {
+            "name": "Baked Macaroni and Cheese",
+            "price": "$10.99",
+            "image": "[Link to Image]",
+            "description": "Macaroni pasta baked in a creamy and cheesy sauce."
+          },
+          {
+            "name": "Blueberry Cheesecake",
+            "price": "$7.99",
+            "image": "[Link to Image]",
+            "description": "Cheesecake with a graham cracker crust and blueberry topping."
+          }
+        ]
+      },
+      {
+        "name": "Spice Palace",
+        "image": "https://i.ibb.co/xq99kv7/pachvai1.jpg",
+        "phone": "+1 (555) 234-5678",
+        "location": "321 Spice Street, Seasoning City",
+        "description": "Embark on a culinary journey with our aromatic and flavorful spice-infused dishes.",
+        "rating": 4.4,
+        "menu": [
+          {
+            "name": "Chicken Curry",
+            "price": "$13.99",
+            "image": "[Link to Image]",
+            "description": "Tender chicken pieces in a rich and aromatic curry sauce."
+          },
+          {
+            "name": "Vegetable Biryani",
+            "price": "$11.99",
+            "image": "[Link to Image]",
+            "description": "Fragrant rice dish with mixed vegetables and aromatic spices."
+          },
+          {
+            "name": "Mango Lassi",
+            "price": "$4.99",
+            "image": "[Link to Image]",
+            "description": "Refreshing yogurt-based drink with mango flavor."
+          }
+        ]
+      },
+      {
+        "name": "Urban Greens",
+        "image": "https://i.ibb.co/VpVZ7ps/seasons2.jpg",
+        "phone": "+1 (555) 345-6789",
+        "location": "567 Garden Avenue, Freshsville",
+        "description": "Fresh and vibrant dishes made with locally sourced ingredients. A haven for health-conscious diners.",
+        "rating": 4.3,
+        "menu": [
+          {
+            "name": "Quinoa Salad",
+            "price": "$9.99",
+            "image": "[Link to Image]",
+            "description": "Healthy salad with quinoa, mixed greens, and a zesty vinaigrette."
+          },
+          {
+            "name": "Avocado Toast",
+            "price": "$7.99",
+            "image": "[Link to Image]",
+            "description": "Toasted bread with creamy avocado slices, topped with herbs and spices."
+          },
+          {
+            "name": "Berry Smoothie Bowl",
+            "price": "$5.99",
+            "image": "[Link to Image]",
+            "description": "Smoothie bowl with mixed berries, granola, and yogurt."
+          }
+        ]
+      },
+      {
+        "name": "Fireside Grill",
+        "image": "https://i.ibb.co/0KD33hv/seasons1.jpg",
+        "phone": "+1 (555) 789-0123",
+        "location": "876 Hearth Lane, Flame City",
+        "description": "Savor the rich flavors of grilled goodness in a warm and inviting atmosphere.",
+        "rating": 4.7,
+        "menu": [
+          {
+            "name": "Ribeye Steak",
+            "price": "$20.99",
+            "image": "[Link to Image]",
+            "description": "Juicy and tender ribeye steak, grilled to perfection."
+          },
+          {
+            "name": "Grilled Vegetables",
+            "price": "$12.99",
+            "image": "[Link to Image]",
+            "description": "Assortment of fresh vegetables grilled to enhance their natural flavors."
+          },
+          {
+            "name": "Chocolate Fondue",
+            "price": "$8.99",
+            "image": "[Link to Image]",
+            "description": "Melted chocolate served with fruits and marshmallows for dipping."
+          }
+        ]
+      },
+      {
+        "name": "Seafood Harbor",
+        "image": "https://i.ibb.co/xq99kv7/pachvai1.jpg",
+        "phone": "+1 (555) 210-9876",
+        "location": "109 Pier Road, Oceanfront",
+        "description": "Dive into a sea of flavors with our fresh and delectable seafood offerings.",
+        "rating": 4.6,
+        "menu": [
+          {
+            "name": "Shrimp Scampi",
+            "price": "$16.99",
+            "image": "[Link to Image]",
+            "description": "Shrimp sautéed in garlic butter and served with pasta."
+          },
+          {
+            "name": "Lobster Bisque",
+            "price": "$14.99",
+            "image": "[Link to Image]",
+            "description": "Creamy soup with chunks of lobster and a hint of sherry."
+          },
+          {
+            "name": "Key Lime Pie",
+            "price": "$6.99",
+            "image": "[Link to Image]",
+            "description": "Refreshing and tangy key lime pie with a graham cracker crust."
+          }
+        ]
+      },
+      {
+        "name": "Pasta Paradise",
+        "image": "https://i.ibb.co/VpVZ7ps/seasons2.jpg",
+        "phone": "+1 (555) 567-8901",
+        "location": "234 Noodle Lane, Pasta City",
+        "description": "Indulge in the timeless allure of perfectly crafted pasta dishes from Italy.",
+        "rating": 4.4,
+        "menu": [
+          {
+            "name": "Fettuccine Alfredo",
+            "price": "$15.99",
+            "image": "[Link to Image]",
+            "description": "Rich and creamy Alfredo sauce tossed with fettuccine pasta."
+          },
+          {
+            "name": "Spinach and Ricotta Ravioli",
+            "price": "$13.99",
+            "image": "[Link to Image]",
+            "description": "Delicate pasta parcels filled with spinach and ricotta, served with marinara sauce."
+          },
+          {
+            "name": "Tiramisu",
+            "price": "$7.99",
+            "image": "[Link to Image]",
+            "description": "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cream."
+          }
+        ]
+      },
+      {
+        "name": "Sweet Serenity Bakery",
+        "image": "https://i.ibb.co/0KD33hv/seasons1.jpg",
+        "phone": "+1 (555) 432-1098",
+        "location": "345 Sugar Street, Dessertville",
+        "description": "A paradise for dessert lovers. Immerse yourself in the world of sweet indulgence.",
+        "rating": 4.9,
+        "menu": [
+          {
+            "name": "Red Velvet Cupcakes",
+            "price": "$3.99 each",
+            "image": "[Link to Image]",
+            "description": "Moist and velvety red velvet cupcakes with cream cheese frosting."
+          },
+          {
+            "name": "Chocolate Chip Cookies",
+            "price": "$1.99 each",
+            "image": "[Link to Image]",
+            "description": "Classic chocolate chip cookies with a perfect balance of chewiness and crunch."
+          },
+          {
+            "name": "Lemon Tart",
+            "price": "$5.99",
+            "image": "[Link to Image]",
+            "description": "Tangy and sweet lemon tart with a buttery crust."
+          }
+        ]
+      },
+      {
+        "name": "Gourmet Grains",
+        "image": "https://i.ibb.co/xq99kv7/pachvai1.jpg",
+        "phone": "+1 (555) 654-3210",
+        "location": "678 Granary Road, Culinary Fields",
+        "description": "Elevate your dining experience with our gourmet dishes featuring a variety of grains and cereals.",
+        "rating": 4.2,
+        "menu": [
+          {
+            "name": "Quinoa Risotto",
+            "price": "$14.99",
+            "image": "[Link to Image]",
+            "description": "Creamy risotto made with quinoa, mushrooms, and Parmesan cheese."
+          },
+          {
+            "name": "Barley and Mushroom Pilaf",
+            "price": "$11.99",
+            "image": "[Link to Image]",
+            "description": "Flavorful pilaf with barley, mushrooms, and aromatic spices."
+          },
+          {
+            "name": "Panna Cotta with Mixed Berries",
+            "price": "$6.99",
+            "image": "[Link to Image]",
+            "description": "Silky and smooth panna cotta topped with a medley of mixed berries."
+          }
+        ]
+      }
+]
+
+  
