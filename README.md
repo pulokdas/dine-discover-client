@@ -10,7 +10,7 @@ https://i.ibb.co/9wj0Rjh/bg.jpg
 https://i.ibb.co/fprjP05/facebook-cover-photo-1.png
 https://i.ibb.co/ggVBvhT/facebook-cover-photo-2.png
 https://i.ibb.co/HBp9WbZ/facebook-profile-image.png
-https://i.ibb.co/9bNf1hs/favicon.png
+
 
 https://i.ibb.co/R2c9cT6/instagram-profile-image.png
 https://i.ibb.co/8nCr9Zm/itam1.jpg
@@ -31,3 +31,13 @@ https://i.ibb.co/4PMrSQb/twitter-header-photo-2.png
 https://i.ibb.co/vhWYm8S/pinterest-board-photo.png
 
 https://i.ibb.co/vhWYm8S/pinterest-board-photo.png
+
+
+https://i.ibb.co/xq99kv7/pachvai1.jpg
+
+
+https://i.ibb.co/0KD33hv/seasons1.jpg
+https://i.ibb.co/VpVZ7ps/seasons2.jpg
+https://i.ibb.co/yXVdNM1/seasons-menu1.jpg
+https://i.ibb.co/JRf13Vj/seasons-menu2.jpg
+https://i.ibb.co/hWg1Jr7/seasons-menu3.jpg
