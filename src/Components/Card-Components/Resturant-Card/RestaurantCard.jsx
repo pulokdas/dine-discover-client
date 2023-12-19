@@ -39,17 +39,19 @@ const RestaurantCard = ({data}) => {
                     </div>
                     {/* Menu buttond */}
 
-
+                    
                 </div>
                 <div>
                     <div className="text-center flex gap-2">
+                        <Link className="btn btn-sm w-10/12 text-white hover:text-teal-600 hover:bg-white bg-teal-600 hover:border-2 hover:border-teal-600  rounded-lg text-sm" to={`/details/${data.id}`}>
                         <button
-                            className="btn btn-sm w-10/12 text-white hover:text-teal-600 hover:bg-white bg-teal-600 hover:border-2 hover:border-teal-600  rounded-lg text-sm"
+                            
                             type="button"
                             
                         >
                             View Details
                         </button>
+                        </Link>
                         <button className='btn btn-outline btn-sm border-teal-500 text-teal-500 hover:text-red-500 hover:border-red-500 hover:bg-white' ><FaRegHeart /></button>
                        
 
@@ -57,15 +59,7 @@ const RestaurantCard = ({data}) => {
 
                 </div>
 
-                <>
-
-
-                    
-                    
-
-
-                  
-                </>
+                
 
 
             </div>

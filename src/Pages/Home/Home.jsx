@@ -14,7 +14,7 @@ const Home = () => {
             <h1 className='text-3xl  font-bold text-white text-center py-5'>Restaurants</h1>
             <div className='grid grid-cols-3 gap-10 w-10/12 mx-auto'>
                 {
-                    data.slice(0, 3).map(data => <RestaurantCard data={data} />)
+                    data?.slice(0, 3).map(data => <RestaurantCard data={data} />)
                 }
             </div>
             <div className='flex items-center justify-center py-5'>
