@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 const Navbar = () => {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
-    const [isTransparent, setIsTransparent] = useState(true);
+   
 
 
 
@@ -12,25 +12,9 @@ const Navbar = () => {
         setIsMenuOpen((prevState) => !prevState);
     };
 
-    const handleScroll = () => {
-        const scrollPosition = window.scrollY;
-        const breakpoint = 100;
+   
 
-        if (scrollPosition > breakpoint) {
-            setIsTransparent(false);
-        } else {
-            setIsTransparent(true);
-        }
-    };
-
-    useEffect(() => {
-        window.addEventListener('scroll', handleScroll);
-        return () => {
-            window.removeEventListener('scroll', handleScroll);
-        };
-    }, []);
-
-    const navbarClass = `bg-${isTransparent ? 'transparent backdrop-filter backdrop-blur-md bg-opacity-70' : 'gray-800'} fixed w-full z-50`;
+    const navbarClass = `bg-gray-800  w-full z-50`;
 
     return (
         <nav className={navbarClass}>
@@ -53,7 +37,7 @@ const Navbar = () => {
                     <ul className="font-medium flex flex-col p-4 md:p-0 mt-4 md:flex-row md:space-x-8 md:mt-0">
                         <li>
                             <Link
-                                to="/Home"
+                                to="/"
                                 className="block py-2 pl-3 pr-4 text-white hover:text-blue-200"
                                 aria-current="page"
                             >
